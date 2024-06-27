@@ -1,3 +1,5 @@
+Click here to see [my progress](#my-progress)
+
 <div align="center" style="text-align: center">
 <img src="http://i.imgur.com/kYYCXtC.png" alt="Open Source Society logo"/>
 <h3>Open Source Society University</h3>
@@ -21,6 +23,7 @@
 - [Curriculum](#curriculum)
 - [Code of conduct](#code-of-conduct)
 - [Team](#team)
+- [My progress](#my-progress)
 
 # Summary
 

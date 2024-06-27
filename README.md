@@ -474,3 +474,101 @@ What is next for you? The possibilities are boundless and overlapping:
 * **[Josh Hanson](https://github.com/joshmhanson)**: lead technical maintainer
 * **[Waciuma Wanjohi](https://github.com/waciumawanjohi)**: lead academic maintainer
 * **[Contributors](https://github.com/ossu/computer-science/graphs/contributors)**
+
+# My progress
+
+## Intro CS
+
+Course | Status
+:-- | :--:
+[High School Algebra](https://www.khanacademy.org/math/algebra-home) | ⏳
+[CS50P: Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) |⏳
+[Python for Everybody](https://www.py4e.com/lessons) |⏳
+[Introduction to Computer Science and Programming using Python](https://github.com/yohanaff/computer-science/blob/master/coursepages/intro-cs/README.md) | 📝
+
+## Core programming
+
+Course| Status
+:-- | :--:
+[Systematic Program Design](https://github.com/yohanaff/computer-science/blob/master/coursepages/spd/README.md) | 📝
+[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 📝
+[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) |📝
+[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) |📝
+[Basic Java](https://www.youtube.com/watch?v=GoXwIVyNvX0) | 📝
+[Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 📝
+[Design Patterns](https://www.coursera.org/learn/design-patterns) | 📝
+[Software Architecture](https://www.coursera.org/learn/software-architecture) | 📝
+
+## Core math
+
+Course| Status
+:-- | :--:
+[Arithmetics](https://www.khanacademy.org/math/arithmetic#arithmetic-subject-challenge) | 📝
+[Basic Geometry](https://www.khanacademy.org/math/basic-geo#basic-geo-subject-challenge) | 📝
+[Pre-algebra](https://www.khanacademy.org/math/pre-algebra#pre-algebra-subject-challenge) |📝
+[Integrated Math 1](https://www.khanacademy.org/math/math1#math1-subject-challenge) |📝
+[Integrated Math 2](https://www.khanacademy.org/math/math2#math2-subject-challenge) | 📝
+[Integrated Math 3](https://www.khanacademy.org/math/math3#math3-subject-challenge) | 📝
+[Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) ([alternative](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)) | 📝
+[Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 📝
+[Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | 📝
+[Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alternative](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)) | 📝
+
+## CS Tools
+
+Course| Status
+:-- | :--:
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 📝
+
+## Core systems
+
+Course| Status
+:-- | :--:
+[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alternative](https://www.nand2tetris.org/)) | 📝
+[Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 📝
+[Operating Systems: Three Easy Pieces](https://github.com/yohanaff/computer-science/blob/master/coursepages/ostep/README.md) | 📝
+[Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | 📝
+
+## Core theory
+
+Course| Status
+:-- | :--:
+[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 📝
+[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 📝
+[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 📝
+[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 📝
+
+## Core security
+
+Course| Status
+:-- | :--:
+[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | 📝
+[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | 📝
+[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 📝
+[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 📝
+[Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 📝
+
+## Core applications
+
+Course| Status
+:-- | :--:
+[Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory) | 📝
+[Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql) | 📝
+[Databases: Semistructured Data](https://www.edx.org/course/semistructured-data) | 📝
+[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction) | 📝
+[Computer Graphics](https://www.edx.org/course/computer-graphics-2) ([alternative](https://cseweb.ucsd.edu/~viscomp/classes/cse167/wi22/schedule.html)) | 📝
+[Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer) | 📝
+[Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)](https://www.coursera.org/learn/nand2tetris2) | 📝
+[Software Engineering: Introduction](https://www.coursera.org/learn/introduction-to-software-engineering) | 📝
+
+## Core ethics
+
+Course| Status
+:-- | :--:
+[Ethics, Technology and Engineering	](https://www.coursera.org/learn/ethics-technology-engineering) | 📝
+[Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property) | 📝
+[Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy) | 📝
+
+## Advanced CS
+
+I will choose a topic when I finish the course

@@ -485,9 +485,9 @@ What is next for you? The possibilities are boundless and overlapping:
 Course | Status
 :-- | :--:
 [High School Algebra](https://www.khanacademy.org/math/algebra-home) | ⏳
-[CS50P: Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) |⏳
+[CS50P: Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) |✅
 [Python for Everybody](https://www.py4e.com/lessons) |⏳
-[Introduction to Computer Science and Programming using Python](https://github.com/yohanaff/computer-science/blob/master/coursepages/intro-cs/README.md) | 📝
+[Introduction to Computer Science and Programming using Python](https://github.com/yohanaff/computer-science/blob/master/coursepages/intro-cs/README.md) | ⏳
 
 ## Core programming
 
